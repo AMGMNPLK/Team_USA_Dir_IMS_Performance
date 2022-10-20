@@ -24,7 +24,7 @@ Click [[TLDR|here for a quick TLDR]] of all notes.
 
 ## How easily this profiling website works
 
-For a quick view, all notes have a TLDR at the top that display the information in one sentence.
+For a quick view, all notes have a TLDR at the top that display the info in one sentence.
 
 ### Review in argumentation mode
 
